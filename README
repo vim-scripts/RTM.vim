@@ -1,0 +1,28 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2827
+
+============
+Project info
+============
+
+Author: Kosei Kitahara <surgo.jp@gmail.com>
+Project host: http://bitbucket.org/Surgo/rtm.vim/
+
+=====
+Usage
+=====
+
+Add Task
+--------
+
+ * add current line to task
+   `:C[RTM] -a` command
+ * add current buffer to task
+   `:B[RTM] -a` command
+
+====
+TODO
+====
+
+ * set tag, location, priority to task
+ * complete task
+ * delete task
